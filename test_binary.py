@@ -1,5 +1,5 @@
 import pytest
-from utils import to_binary
+from binary import to_binary
 
 
 def test_valid_conversion():
